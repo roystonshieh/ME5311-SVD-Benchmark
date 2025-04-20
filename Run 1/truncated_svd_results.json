@@ -1,0 +1,22 @@
+{
+    "method": "Truncated SVD",
+    "k_value": 500,
+    "runtime": 83.6998188495636,
+    "memory_usage": 3432.40625,
+    "reconstruction_error": 0.0001356741995550692,
+    "noise_robustness": 0.00013783746158617936,
+    "modes_90pct_energy": 8,
+    "modes_95pct_energy": 14,
+    "top_singular_values": [
+        6421827.0,
+        2055496.125,
+        1688516.0,
+        1640277.5,
+        1231180.0,
+        1191252.625,
+        1154964.5,
+        913963.875,
+        827304.25,
+        713049.0
+    ]
+}

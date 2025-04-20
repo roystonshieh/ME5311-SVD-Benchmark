@@ -1,0 +1,1 @@
+{"method": "Randomized SVD", "dataset": "slp.nc", "shape": [16261, 16071], "k": 50, "elapsed_time_s": 2.404245138168335, "peak_memory_MiB": 1245.7109375, "reconstruction_error": 885537.5, "energy_captured": 1.0, "cond_full": 12152.146484375, "cond_trunc": 12152.146484375}

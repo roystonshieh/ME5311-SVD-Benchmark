@@ -1,0 +1,1 @@
+{"method": "streaming SVD", "dataset": "msl", "k": 16071, "elapsed_time_s": 30375.907480478287, "peak_memory_MiB": 21843.86328125, "reconstruction_error": 1658236544.0, "energy_captured": 1.0}

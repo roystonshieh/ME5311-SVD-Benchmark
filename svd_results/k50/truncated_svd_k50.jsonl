@@ -1,0 +1,1 @@
+{"method": "Truncated SVD", "dataset": "slp.nc", "shape": [16261, 16071], "k": 50, "elapsed_time_s": 3.7006990909576416, "peak_memory_MiB": 2253.015625, "reconstruction_error": 885470.875, "energy_captured": 1.0894743204116821, "cond_full": "none", "cond_trunc": 12152.146484375}

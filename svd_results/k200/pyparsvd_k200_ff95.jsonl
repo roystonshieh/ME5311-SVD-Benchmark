@@ -1,0 +1,1 @@
+{"method": "PyParSVD (serial)", "dataset": "slp.nc", "shape": [16261, 16071], "k": 200, "batch_size": 100, "elapsed_time_s": 43.130051612854004, "peak_memory_MiB": 1390.64453125, "reconstruction_error": 429142.90625, "energy_captured": 0.06757812947034836, "cond_full": null, "cond_trunc": 61821.078125}

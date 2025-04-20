@@ -1,0 +1,23 @@
+{
+    "method": "Randomized SVD",
+    "k_value": 500,
+    "n_oversamples": 10,
+    "n_iterations": 5,
+    "runtime": 8.443560123443604,
+    "memory_usage": 3452.234375,
+    "reconstruction_error": 0.00013611267786473036,
+    "noise_robustness": 0.0001382737513301927,
+    "energy_captured": 0.9999998807907104,
+    "top_singular_values": [
+        6421830.0,
+        2055494.625,
+        1688517.25,
+        1640278.125,
+        1231179.875,
+        1191253.5,
+        1154964.25,
+        913964.75,
+        827304.4375,
+        713048.5625
+    ]
+}

@@ -1,0 +1,1 @@
+{"method": "Economy SVD", "dataset": "slp.nc", "shape": [16261, 16071], "k": 10, "elapsed_time_s": 1120.7144243717194, "peak_memory_MiB": 17775.1171875, "reconstruction_error": 2068757.375, "energy_captured": 0.9999984502792358, "cond_full": 3680575488.0, "cond_trunc": 2293.06982421875}

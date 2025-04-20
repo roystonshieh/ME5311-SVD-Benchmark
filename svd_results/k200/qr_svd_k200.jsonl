@@ -1,0 +1,1 @@
+{"method": "QR\u2011Based SVD", "dataset": "slp.nc", "shape": [16261, 16071], "k": 200, "elapsed_time_s": 689.8432464599609, "peak_memory_MiB": 6341.984375, "reconstruction_error": 395752.125, "energy_captured": 1.0, "cond_full": 3525701120.0, "cond_trunc": 51655.3828125}

@@ -1,0 +1,2 @@
+{"method": "Streaming SVD", "dataset": "slp.nc", "shape": [16261, 16071], "k": 50, "elapsed_time_s": 10.521715641021729, "peak_memory_MiB": 1259.18359375, "reconstruction_error": 899874.125, "energy_captured": 1.0, "cond_full": 13022.970703125, "cond_trunc": 13022.970703125}
+{"method": "Streaming SVD", "dataset": "slp.nc", "shape": [16261, 16071], "k": 50, "elapsed_time_s": 10.21946907043457, "peak_memory_MiB": 1257.69921875, "reconstruction_error": 899874.125, "energy_captured": 1.0020331144332886, "cond_full": 13022.970703125, "cond_trunc": 13022.970703125}

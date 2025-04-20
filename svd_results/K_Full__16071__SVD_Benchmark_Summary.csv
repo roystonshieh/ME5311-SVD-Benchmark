@@ -1,0 +1,4 @@
+method,dataset,k,elapsed_time_s,peak_memory_MiB,reconstruction_error,energy_captured,file
+full SVD,msl,16071,1157.7067551612854,17774.73046875,698.8065795898438,1.0,Economy_svd k16071.jsonl
+full SVD,msl,16071,1173.6379568576813,17821.921875,698.8065795898438,1.0,full_svd k16071.jsonl
+streaming SVD,msl,16071,30375.907480478287,21843.86328125,1658236544.0,1.0,streaming_svd k16071.jsonl

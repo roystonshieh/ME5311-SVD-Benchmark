@@ -1,0 +1,1 @@
+{"method": "Streaming SVD", "dataset": "slp.nc", "shape": [16261, 16071], "k": 200, "elapsed_time_s": 17.65772032737732, "peak_memory_MiB": 1314.76171875, "reconstruction_error": 410496.40625, "energy_captured": 1.0, "cond_full": 54841.296875, "cond_trunc": 54841.296875}

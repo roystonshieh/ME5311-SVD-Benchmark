@@ -1,0 +1,1 @@
+{"method": "full SVD", "dataset": "msl", "k": 200, "elapsed_time_s": 1294.170155763626, "peak_memory_MiB": 17808.828125, "reconstruction_error": 393924.625, "energy_captured": 1.0}
